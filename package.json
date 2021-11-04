@@ -2,7 +2,8 @@
 	"author": "Andre Cantera",
 	"description": "A project that I have no idea what it does",
 	"keywords": ["freecodecamp", "descriptive", "related", "words"],
-	"license": "MIT",	
+	"license": "MIT",
+	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
