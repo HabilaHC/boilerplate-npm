@@ -1,7 +1,7 @@
 {
 	"author": "Andre Cantera",
 	"description": "A project that I have no idea what it does",
-		
+	"keywords": ["freecodecamp", "descriptive", "related", "words"],	
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
