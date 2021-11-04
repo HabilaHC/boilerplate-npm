@@ -1,6 +1,7 @@
 {
 	"author": "Andre Cantera",
-	"description": "A project that I have no idea what it does"	
+	"description": "A project that I have no idea what it does",
+		
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
